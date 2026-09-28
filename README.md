@@ -210,8 +210,6 @@ Frontend Developer specializing in React.js and modern web development.
 **Portfolio:**  
 https://divakar-portfolio-rosy.vercel.app/
 
-## 📄 License
-
 This project was developed for the **Kidzee Doddaballapur school website**.
 
 © 2026 Kidzee Doddaballapur. All rights reserved.
