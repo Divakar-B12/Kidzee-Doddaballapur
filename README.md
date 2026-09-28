@@ -199,9 +199,7 @@ The project can be deployed using platforms such as:
 **Live Demo:**  
 Add your deployed Vercel/Netlify URL here.
 
-```text
 https://kidzee-doddaballapur.vercel.app
-```
 
 ## 👨‍💻 Developer
 
